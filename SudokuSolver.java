@@ -1,7 +1,5 @@
 // Description: This class contains the methods to solve the sudoku puzzle and package the completed board in a 9x9 array matrix
 
-package sudokuSolver;
-
 public class SudokuSolver {
 	
 	public SudokuSolver() {

@@ -2,8 +2,6 @@
 // When the user starts the program from the Client class the GUI is populated with the values from the starting sudoku board. When the SOLVE
 // button is pressed the GUI then displays the solved sudoku puzzle and also displays it to the console.
 
-package sudokuSolver;
-
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 import java.awt.GridLayout;

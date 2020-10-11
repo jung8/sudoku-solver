@@ -1,8 +1,6 @@
 // Description: The class contains the first JPanel that is added to the GUI. Within it creates the 9 cells in a 3x3 format that
 // correspond to the 9 numbers in each of the square panels.
 
-package sudokuSolver;
-
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.GridLayout;

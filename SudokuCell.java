@@ -1,7 +1,5 @@
 // Description: This is the class that sets the data into each individual cell on the sudoku board
 
-package sudokuSolver;
-
 import java.awt.Color;
 import java.awt.Dimension;
 import javax.swing.BorderFactory;

@@ -1,7 +1,5 @@
 // Description: This class is used for reading the input sudoku file and inserting the data in a 9x9 array.
 
-package sudokuSolver;
-
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
