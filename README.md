@@ -1,4 +1,4 @@
 # sudoku-solver
-A Java sudoku solver with a simple GUI
+A sudoku solver with a simple GUI written in Java
 
 ### Try it out here: https://repl.it/@jung8/sudoku-solver
