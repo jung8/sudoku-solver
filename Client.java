@@ -3,7 +3,7 @@
 // also displays the same data until the user pressed the SOLVE button. At this point the solved sudoku puzzle will be displayed to the user
 // console and on the GUI
 
-public class Main {
+public class Client {
 
 	public static void main(String[] args) {
 		int startBoard[][] = FileReader.inputReader(); // stores the starting board in startBoard[][]
