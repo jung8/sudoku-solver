@@ -2,6 +2,7 @@
 // The input is then corrected by replacing all periods with zeros and then displayed to the users console. The graphical user interface (GUI)
 // also displays the same data until the user pressed the SOLVE button. At this point the solved sudoku puzzle will be displayed to the user
 // console and on the GUI
+package sudoku;
 
 public class Client {
 
