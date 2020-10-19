@@ -5,12 +5,8 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
 
-
 public class FileReader {
 	
-	public FileReader(){
-		
-	}
 //	Reads input txt file, updates array, and changes any '.' characters to 0.
 	public static int[][] inputReader() {
 	int boardSize = 9;

@@ -3,9 +3,6 @@ package sudoku;
 
 public class SudokuSolver {
 	
-	public SudokuSolver() {
-
-	}
 	public static int[][] solve(int board[][]) {
 		setOnBoard(board, 0, 0);
 		return board;

@@ -14,7 +14,6 @@ import javax.swing.JPanel;
 
 public class SudokuBoard  {
 	
-
 	public SudokuBoard(int board[][]) {
 		JFrame frm = new JFrame("Sudoku Solver"); //creates the new frame with a title
 		frm.setLayout(new BorderLayout()); // sets the layout to border layout

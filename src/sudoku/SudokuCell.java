@@ -8,6 +8,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 
 public class SudokuCell extends JPanel{
+  
 	private JLabel txt = new JLabel();
 	
 	public SudokuCell() {
