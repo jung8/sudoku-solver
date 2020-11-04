@@ -54,13 +54,13 @@ public class SudokuBoard  {
 				frm.add(centerPnl, BorderLayout.CENTER);
 				frm.validate(); 
 				
+        System.out.println("Solved Board:");
 				for(int i = 0; i < solvedBoard.length; i++) {   //displays the solved board to the console
 					for(int j = 0; j < solvedBoard.length; j++) {
 						System.out.print(solvedBoard[i][j] + " ");
 					}
 					System.out.println();
 				}
-				
 			}
 		});
 	}
